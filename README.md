@@ -1,27 +1,51 @@
-# React + TypeScript + Vite
+## 💡 App's purpose
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully-functional link-sharing app for developers! It works with image uploads, repeater fields, drag-and-drop, and more!
 
-Currently, two official plugins are available:
+This app demonstrates knowledge of:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Typescript Advanced Features 
 
-## Expanding the ESLint configuration
+[Feature-sliced-design](https://feature-sliced.design/)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+JWT
 
-- Configure the top-level `parserOptions` property like this:
+SASS
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+PostCSS
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+ESLint and Prettier
+
+Responsive design (Desktop + Tablet + Mobile/Mobile first approach)
+
+
+
+
+## 🦾 Main features:
+
+- [ ] [oklch()](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+
+
+## 🔧 Build with
+
+- React
+- Typescript
+- Node.js
+
+## 🧑‍🚀 Getting started
+
+1. Fork 🍴 and Star ⭐️ this repository
+
+2. ```git clone``` to your local directory 💻
+
+3. ```cd LinkSharingApp```
+
+4. run ```pnpm install```
+
+5. run ```pnpm start ```🎉
+
+
+## ✍️ Author 
+
+[Victor Fedorov](https://github.com/Cor4zon)
+
